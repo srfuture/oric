@@ -1,6 +1,7 @@
+<div align="center">
+
 # Oric多协议下载工具
 
-<div align="center">
 
 | [中文](doc/CN/README.md) | [English](doc/EN/README.md) | [日本語](doc/JA/README.md) | [한국어](doc/KO/README.md) |
 
