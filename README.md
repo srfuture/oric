@@ -59,7 +59,7 @@
     - ```bash
         oric bt [torrent文件路径] -o [下载路径]
 - 其他下载
-    - bilinili视频爬取
+    - bilibili视频爬取
         - 用法
         - ``` bash
             oric get [视频url地址] [下载路径]
