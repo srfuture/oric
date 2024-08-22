@@ -11,6 +11,9 @@
 > [!CAUTION]
 > Currently only supports amd64 architecture CPUs. For other architectures, please wait for updates or recompile `oric/cmd/torrent_downloader.cpp`, then move the new `.so` library to `oric/lib/`, and finally run `install.bat` or `install.sh` again.
 
+> [!TIP]
+> Oric also provides a web crawling feature, currently supporting video downloads from Bilibili.
+
 | Download Protocol | Supported |
 |-------------------|-----------|
 | HTTP              | ✅        |
