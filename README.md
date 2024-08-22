@@ -58,7 +58,7 @@
 - 其他下载
 
     - > [!TIP]
-        > Oric还提供爬虫功能，目前支持爬取bilibili的视频
+      > Oric还提供爬虫功能，目前支持爬取bilibili的视频
     
         - 用法
         - ``` bash
