@@ -65,4 +65,4 @@
             oric get [视频url地址] [下载路径]
 
 ## 更新
-具体请看[更新文档](./update.log.md)
+具体请看[更新文档](doc/CN/update.log.md)
