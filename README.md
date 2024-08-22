@@ -57,8 +57,8 @@
         oric bt [torrent文件路径] -o [下载路径]
 - 其他下载
 
-    - > [!TIP]
-      > Oric还提供爬虫功能，目前支持爬取bilibili的视频
+    > [!TIP]
+    > Oric还提供爬虫功能，目前支持爬取bilibili的视频
     
         - 用法
         - ``` bash
