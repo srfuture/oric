@@ -1,5 +1,6 @@
-# Oric Multi-Protocol Download Tool
 <div align="center">
+
+# Oric Multi-Protocol Download Tool
 
 | [中文](../CN/README.md) | [English](../EN/README.md) | [日本語](../JA/README.md) | [한국어](../KO/README.md) |
 
