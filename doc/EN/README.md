@@ -55,10 +55,10 @@
     - ```bash
         oric bt [torrent_file_path] -o [download_path]
 - Other Downloads
-
-    - > [!TIP]
-        > Oric also provides a web crawling feature, currently supporting video downloads from Bilibili.
-
+    - bilibili video download
         - Usage
         - ``` bash
             oric get [video_url_address] [download_path]
+## Update
+
+Please refer to the [update document](./update.log.md) for details.
