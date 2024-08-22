@@ -1,8 +1,9 @@
-# Oric多协议下载工具
-
 <div align="center">
 
-| [中文](../CN/README.md) | [English](../EN/README.md) | [日本語](../JA/README.md) | [한국어](../KO/README.md) |
+# Oric多协议下载工具
+
+
+| [中文](doc/CN/README.md) | [English](doc/EN/README.md) | [日本語](doc/JA/README.md) | [한국어](doc/KO/README.md) |
 
 </div>
 
@@ -11,6 +12,9 @@
 
 > [!CAUTION]
 > 当前只支持amd64架构CPU，如需其他架构请等待更新或自行重新编译
+
+> [!TIP]
+> Oric还提供爬虫功能，目前支持爬取bilibili的视频
 
 | 下载协议   | 是否支持 |
 |------------|----------|
@@ -55,10 +59,7 @@
     - ```bash
         oric bt [torrent文件路径] -o [下载路径]
 - 其他下载
-
-    - > [!TIP]
-        > Oric还提供爬虫功能，目前支持爬取bilibili的视频
-    
+    - bilibili视频爬取
         - 用法
         - ``` bash
             oric get [视频url地址] [下载路径]
