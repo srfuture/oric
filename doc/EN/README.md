@@ -35,7 +35,7 @@
         - ```cmd
             git clone https://github.com/srfuture/oric
             cd oric
-            sudo ./install.sh
+            sudo ./install.bat
     2. From Website:
         - No official website available yet
 
@@ -44,7 +44,7 @@
         - ```bash
             git clone https://github.com/srfuture/oric
             cd oric
-            .\install.bat
+            .\install.sh
     2. From Website:
         - No official website available yet
 
