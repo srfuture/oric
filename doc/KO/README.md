@@ -35,7 +35,7 @@
         - ```cmd
             git clone https://github.com/srfuture/oric
             cd oric
-            sudo ./install.sh
+            sudo ./install.bat
     2. 웹사이트에서:
         - 공식 웹사이트는 아직 제공되지 않습니다
 
@@ -44,7 +44,7 @@
         - ```bash
             git clone https://github.com/srfuture/oric
             cd oric
-            .\install.bat
+            .\install.sh
     2. 웹사이트에서:
         - 공식 웹사이트는 아직 제공되지 않습니다
 
