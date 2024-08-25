@@ -36,7 +36,7 @@
         - ```cmd
             git clone https://github.com/srfuture/oric
             cd oric
-            sudo ./install.sh
+            sudo ./install.bat
     2. 网站获取
         - 暂无官方网站
 
@@ -45,7 +45,7 @@
         - ```bash
             git clone https://github.com/srfuture/oric
             cd oric
-            .\install.bat
+            .\install.sh
     2. 网站获取
         - 暂无官方网站
 ## 用法
